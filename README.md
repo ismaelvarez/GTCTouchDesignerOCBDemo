@@ -2,7 +2,7 @@
 A demo that uses FIWARE Notification System to get the telescope telemetry data. 
 
 ## Description
-A web server node sends a subscription message to the OrionContextBroker for every entity in a list
+A web server node sends a subscription message to the OrionContextBroker for every entity in a list (keyIndicators.txt)
 
 ```json
 {
