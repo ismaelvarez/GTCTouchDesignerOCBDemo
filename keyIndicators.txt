@@ -53,3 +53,4 @@ EMIR/MCS/CryoMonitor,PressureE3
 EMIR/MCS/CryoMonitor,DetectorTemp1
 EMIR/MCS/EMIRLKTempMon_1,tempSensor7
 EMIR/MCS/CryoMonitor,isPLCAlarm
+HMP,position
